@@ -2,8 +2,13 @@
 	backgroundColor:"white"
 }
 
-'#view':{
-	width : 100,
-	height : 100,
-	backgroundColor : "green"
+
+
+'#lblxy':{
+	
+	font:20,
+	color:"#000"	,
+	
+	
+	
 }
